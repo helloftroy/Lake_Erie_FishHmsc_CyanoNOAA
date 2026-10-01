@@ -1,0 +1,10 @@
+raw/
+processed/
+figures/
+logs/
+__pycache__/
+*.pyc
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
